@@ -1,0 +1,2 @@
+# ANXGuid
+friendly GUID generator
